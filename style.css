@@ -134,11 +134,11 @@ main p {
   flex-direction: column;
 }
 .t-purple {
-  background-color: #7b5a9e;
+  background-color: #28133f;
   color: #fff;
 }
 .t-white {
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
   color: #7b5a9e;
 }
 .t-white .example-item {
